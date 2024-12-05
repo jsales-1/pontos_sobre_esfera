@@ -1,7 +1,7 @@
 # Otimização Conformacional de Pontos Sobre Esferas
 
-**##Autor**: José David Alves Sales  
-**##Orientador**: Dr. José Mario Martínez Pérez  
+**## Autor**: José David Alves Sales  
+**## Orientador**: Dr. José Mario Martínez Pérez  
 
 Este repositório contém o código utilizado para a otimização de pontos sobre uma esfera, com o objetivo de formar sólidos de Platão. O processo envolve a distribuição de pontos na superfície esférica de maneira que maximize a uniformidade das distâncias entre eles. A otimização é realizada com a utilização de pesos ponderados e a função objetivo é minimizada por um algoritmo quasi-Newton.
 
