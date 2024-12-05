@@ -1,7 +1,7 @@
 # Otimização Conformacional de Pontos Sobre Esferas
 
-**## Autor**: José David Alves Sales  
-**## Orientador**: Dr. José Mario Martínez Pérez  
+## **Autor**: José David Alves Sales  
+## **Orientador**: Dr. José Mario Martínez Pérez  
 
 Este repositório contém o código utilizado para a otimização de pontos sobre uma esfera, com o objetivo de formar sólidos de Platão. O processo envolve a distribuição de pontos na superfície esférica de maneira que maximize a uniformidade das distâncias entre eles. A otimização é realizada com a utilização de pesos ponderados e a função objetivo é minimizada por um algoritmo quasi-Newton.
 
@@ -35,25 +35,6 @@ Foram realizados testes variando o número de pontos e classes, com o objetivo d
 ## Resultados
 
 Os resultados indicaram que, ao otimizar a distribuição dos pontos, os sólidos de Platão surgem como soluções naturais em determinadas configurações. Poliedros como o tetraedro, cubo, octaedro, dodecaedro e icosaedro foram gerados e visualizados.
-
-## Como Usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/jsales-1/pontos_sobre_esfera.git
-   ```
-
-2. Instale as dependências:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Execute o código para otimizar os pontos e gerar o poliedro:
-   ```bash
-   python otimização.py
-   ```
-
-4. Visualize os resultados no formato STL gerado.
 
 ## Referências
 
