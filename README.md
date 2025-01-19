@@ -45,5 +45,3 @@ Os resultados indicaram que, ao otimizar a distribuição dos pontos, os sólido
 - [Documentação do Python STL](https://python-stl.readthedocs.io/en/latest/)
 
 ---
-
-Agora o README está ajustado com o nome do orientador incluído.
